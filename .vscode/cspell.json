@@ -1,0 +1,12 @@
+{
+    "version": "0.2",
+    "language": "de",
+    "dictionaries": ["Custom German Only"],
+    "dictionaryDefinitions": [
+        {
+            "name": "Custom German Only",
+            "path": "./custom-words.de.txt",
+            "addWords": true
+        }
+    ]
+}
