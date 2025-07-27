@@ -1,3 +1,4 @@
 # Readme
 
-ICE Score?
+- ICE Score?
+- SWOT-Analyse
