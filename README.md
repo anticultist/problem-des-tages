@@ -7,3 +7,4 @@
 
 - https://www.producthunt.com/
 - https://www.indiehackers.com/
+- [Chrome Web Store](https://chromewebstore.google.com/)

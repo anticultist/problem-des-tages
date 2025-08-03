@@ -104,3 +104,45 @@ Ein Gmail-Add-on, das automatisch Reservierungsanfragen aus E-Mails erkennt, ext
 - Eine KI-gestützte, trainierbare Komponente und die Möglichkeit zur manuellen Nachbearbeitung könnten die Akzeptanz und Zuverlässigkeit deutlich erhöhen.
 - Die App sollte von Anfang an auf Datenschutz und Transparenz setzen, um Vertrauen zu schaffen.
 - Eine Erweiterbarkeit auf andere Plattformen (z.B. Outlook) könnte die Zielgruppe vergrößern und das Risiko der Google-Abhängigkeit reduzieren.
+
+## Notizen
+
+- https://developers.google.com/workspace/gmail/markup/reference/event-reservation
+- https://developers.google.com/workspace/gmail/markup/reference/types/Reservation
+- https://ai.google.dev/gemini-api/docs/pricing
+
+## Reddit: https://www.reddit.com/r/GMail/
+
+**Titel:**
+Idee: Gmail-Erweiterung für Veranstaltende, die Reservierungen per E-Mail erhalten – Bedarf?
+
+**Beitrag:**
+Hallo zusammen,
+ich plane aktuell eine Gmail-Erweiterung für kleinere Veranstaltende, die Reservierungen oder Anmeldungen per E-Mail bekommen – also ohne eigenes Ticketsystem oder Buchungstool.
+Die Erweiterung würde helfen, eingehende Reservierungsmails bestimmten Veranstaltungen zuzuordnen, z. B. durch automatische Erkennung von Titel, Datum oder Schlüsselwörtern.
+Ziel ist es, eine bessere Übersicht über Anmeldungen und Kapazitäten zu ermöglichen – direkt im Posteingang.
+
+Bevor ich da Zeit investiere:
+Gibt es unter euch Leute, die sowas gebrauchen könnten? Oder die vielleicht genau dieses Problem haben und aktuell händisch sortieren?
+
+Ich bin noch ganz am Anfang – das ist erstmal nur eine Idee und ich will herausfinden, ob es da überhaupt einen realen Bedarf gibt.
+
+Würde mich freuen, eure Gedanken dazu zu hören!
+
+---
+
+**Betreff:**
+Frage zur Regel „no promotional content“ – Link zu Feedback-Formular erlaubt?
+
+**Nachricht:**
+Hi Mods,
+
+ich würde gern im Sub eine Idee für eine Gmail-Erweiterung posten, die sich an kleine Veranstaltende richtet, die Reservierungen ohne Buchungssystem per E-Mail abwickeln.
+Die Erweiterung würde helfen, solche Reservierungsmails im Posteingang besser zu organisieren und den Überblick über Anmeldungen zu behalten.
+
+Ich bin noch ganz am Anfang der Entwicklung und möchte lediglich herausfinden, ob es dafür grundsätzlich Interesse gibt. Wäre es im Rahmen eurer Regeln erlaubt, im Beitrag optional einen Link zu einer kurzen Feedback-Umfrage oder Warteliste (z. B. Google Form oder Typeform) zu setzen?
+
+Kein fertiges Produkt, keine Werbung, keine Verkäufe – es geht mir nur um Vorab-Feedback.
+
+Danke euch & liebe Grüße
+[Dein Reddit-Username]
